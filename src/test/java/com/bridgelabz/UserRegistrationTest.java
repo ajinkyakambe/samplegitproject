@@ -25,5 +25,9 @@ public class UserRegistrationTest {
     // 2) not starting with caps
     // 3)  Less than three chars
 
+    // 2) not starting with caps
+    //    // 3)  Less than three chars
+
+
 
 }
